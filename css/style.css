@@ -122,7 +122,7 @@ p {
   }
   .date {
     font-size: 1.8rem;
-    color: #693ad4;
+    color: #E277CD;
     font-weight: 800;
     animation: pulse 2s infinite;
   }
@@ -6220,7 +6220,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #560ad1 !important;
+  background-color: #E277CD !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -9390,7 +9390,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #560ad1 !important;
+  color: #E277CD !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
