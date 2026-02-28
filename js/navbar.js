@@ -5,7 +5,13 @@ const navbarHTML = `
             </div>
             <div class="col-lg-6 text-right">
                 <div class="d-inline-flex align-items-center">
-                    <a class="text-white px-2" href="https://wa.me/447946031256"><i class="fab fa-whatsapp fa-2x"></i></a>
+                    <a class="text-white px-2" href="https://wa.me/447946031256" target="_blank">
+                        <i class="fab fa-whatsapp fa-2x"></i>
+                    </a>
+
+                    <a class="text-white px-2" href="https://www.instagram.com/avthaimassage/" target="_blank">
+                        <i class="fab fa-instagram fa-2x"></i>
+                    </a>
                 </div>
             </div>
         </div>
